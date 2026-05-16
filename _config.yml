@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: South London Community Music
+title: Search For a New Ensemble
 description: >- # this means to ignore newlines until "baseurl:"
-  A South London music charity, offering an opportunity for a new/existing group to join.
+  SLCM is seeking ensembles to expand our reach and fulfil our aims
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://southlondoncommunitymusic.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
