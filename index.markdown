@@ -2,7 +2,7 @@
 layout: default
 ---
 
-South London Community Music is a community music charity that brings people together through music. We aim to:
+South London Community Music is a charity that brings people together through music. We aim to:
 
 1. support our ensembles
 1. engage our community
@@ -37,18 +37,19 @@ You're formed of your local community, and don't operate for profit. Your aims a
 * Charitable status
 * Governance framework
 * Gear - drums, percussion, and recording and amplification equipment (subject to specific arrangement)
-* Connection with ~180 other community musicians. Dep networks and enthusiastic audiences.
+* Connection with ~180 other community musicians. Dep musician networks and enthusiastic audiences.
 
 ## About The Space
 
-We have a longstanding relationship with the church. Here are some photos of the space:
+We have a longstanding relationship with the church. 
 
 The main hall regularly hosts rehearsals with 50 seated big band players, including a full rhythm section. You'd probably be able to fit 100 seated singers.
 
-You get chairs, the library looks like this, you're welcome to put your music there. We have a printer.
-You're provided with keys and are expected to secure the building.
+The church has comfortable chairs and plenty of storage space for gear and music. There's a storage cupboard and separate library.
 
-You'd be expected to take on one slot per week. Mondays are available, 5-10pm, flexibly.
+You'd be provided with keys, letting yourselves in and securing the building after you leave.
+
+You'd be expected to take on one slot per week. Mondays are available, 5-10pm, flexibly. Let's talk about timings.
 
 ## What We Need From You
 
@@ -58,9 +59,9 @@ To get the conversation started we need to know:
 * What makes your group a good fit for our values?
 * An explanation of how you (plan to) engage with the community.
 
-Long-term the payment structure depends on the size of your ensemble and your resources, but you'd expect to be contributing in the region of £300 per month for space, storage, and insurance. If you're not established we can be flexible with costs while you grow your membership. This is considered on a case-by-case basis.
+Long-term the payment structure for shared costs like hall hire depends on the size of your ensemble and your resources, but you'd expect to be contributing in the region of £300 per month for space, storage, and insurance. If you're not established we can be flexible with costs while you grow your membership. This is considered on a case-by-case basis.
 
-This isn't an intermittent one-off deal, we're looking for a long-term engagement. The new ensemble(s) ideally join SLCM as full members, including assigning a trustee to the board. In our last ensemble onboarding this took twelve months.
+This isn't an intermittent one-off deal, we're looking for a long-term engagement. The new ensemble(s) ideally join SLCM as full members, including assigning a trustee to the board. In our last ensemble onboarding this process took twelve months.
 
 [Send us an email](mailto:slcmchair@gmail.com) with those details and we'll be in touch!
 
