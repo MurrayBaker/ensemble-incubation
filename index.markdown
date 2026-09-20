@@ -49,7 +49,7 @@ The church has comfortable chairs and plenty of storage space for gear and music
 
 You'd be provided with keys, letting yourselves in and securing the building after you leave.
 
-You'd be expected to take on one slot per week. Mondays are available, 5-10pm, flexibly. Let's talk about timings.
+You'd be expected to take on one slot per week. Mondays and Fridays are available, 5-10pm, flexibly. Let's talk about timings.
 
 ## What We Need From You
 
