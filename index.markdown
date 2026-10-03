@@ -45,6 +45,9 @@ We have a longstanding relationship with the church.
 
 The main hall regularly hosts rehearsals with 50 seated big band players, including a full rhythm section. You'd probably be able to fit 100 seated singers.
 
+![Picture of the space](church1.jpeg)
+![Picture of the space](church2.jpeg)
+
 The church has comfortable chairs and plenty of storage space for gear and music. There's a storage cupboard and separate library.
 
 You'd be provided with keys, letting yourselves in and securing the building after you leave.
